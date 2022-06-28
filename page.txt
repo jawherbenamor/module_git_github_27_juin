@@ -1,3 +1,7 @@
-formulaire
-jhghjghj
-=========
+fFormulaire
+==========
+
+nom [              ]
+prenom [             ]
+email [             ]
+password [            ]
